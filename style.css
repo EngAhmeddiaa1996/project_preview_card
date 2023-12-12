@@ -6,10 +6,10 @@ img {
   position: absolute;
 }
 .Perfume {
-  border: 1px solid #ffffff;
+  border: 1px solid #ccc9c9;
   border-radius: 22px;
   height: 750px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.664);
   max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
