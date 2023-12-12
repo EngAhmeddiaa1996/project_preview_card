@@ -6,7 +6,7 @@ img {
   position: absolute;
 }
 .Perfume {
-  border: 1px solid #000000;
+  border: 1px solid rgba(255, 255, 255, 0.664);
   border-radius: 22px;
   height: 750px;
   background-color: rgba(255, 255, 255, 0.664);
